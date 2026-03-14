@@ -11,6 +11,18 @@ I enjoy improving my coding skills step by step and understanding how technology
 
 ---
 
+## 🎓 Education
+
+🎓 **C.V Raman College of Engineering**  
+**Bachelor of Technology (B.Tech)**  
+**Specialization:** IoT & Cybersecurity with Blockchain Technology  
+
+📅 **Duration:** 2025 – 2029  
+📊 **Current CGPA:** 9.37
+
+---
+---
+
 ## 📈 GitHub Stats
 
 <table align="center">
@@ -96,9 +108,6 @@ I enjoy improving my coding skills step by step and understanding how technology
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ianjalik23&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
-</p>
 
 ---
 
