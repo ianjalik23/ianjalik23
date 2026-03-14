@@ -1,4 +1,3 @@
-
 # 💫 About Me:
 🔭 I’m currently working on improving my coding and problem-solving skills.<br>👯 I’d love to collaborate on beginner projects and learn with others.<br>🤝 I’m looking for help understanding AI/ML and real project building.<br>🌱 Right now I’m learning programming basics and data structures.<br>💬 Ask me about coding practice, tech learning, or cybersecurity basics.<br>⚡ Fun fact: I’m curious about how technology works and enjoy learning new things step by step.
 
